@@ -1,0 +1,56 @@
+11:35:52.446 [main] INFO  testCases.TC003_LoginTest_DDT - Entering email addresslearner55@gmail.com
+11:35:52.602 [main] INFO  testCases.TC003_LoginTest_DDT - Entering passwordlearner55
+11:35:52.727 [main] INFO  testCases.TC003_LoginTest_DDT - Clicking on login button
+11:35:52.824 [main] INFO  testCases.TC003_LoginTest_DDT - Validating My account text exists after login or not
+11:35:54.973 [main] INFO  testCases.TC003_LoginTest_DDT - Completed TC003_LoginTest_DDT
+11:35:54.976 [main] INFO  testCases.TC003_LoginTest_DDT - starting TC003_LoginDDT
+11:35:54.977 [main] INFO  testCases.TC003_LoginTest_DDT - clicking on My account link
+11:35:55.048 [main] INFO  testCases.TC003_LoginTest_DDT - clicking on login link
+11:35:55.535 [main] INFO  testCases.TC003_LoginTest_DDT - Entering email addresslearner555@gmail.com
+11:35:55.636 [main] INFO  testCases.TC003_LoginTest_DDT - Entering passwordlearner55
+11:35:55.715 [main] INFO  testCases.TC003_LoginTest_DDT - Clicking on login button
+11:35:55.791 [main] INFO  testCases.TC003_LoginTest_DDT - Validating My account text exists after login or not
+11:36:05.858 [main] INFO  testCases.TC003_LoginTest_DDT - Completed TC003_LoginTest_DDT
+11:36:05.860 [main] INFO  testCases.TC003_LoginTest_DDT - starting TC003_LoginDDT
+11:36:05.860 [main] INFO  testCases.TC003_LoginTest_DDT - clicking on My account link
+11:36:05.944 [main] INFO  testCases.TC003_LoginTest_DDT - clicking on login link
+11:36:06.861 [main] INFO  testCases.TC003_LoginTest_DDT - Entering email addresslearner66@gmail.com
+11:36:07.009 [main] INFO  testCases.TC003_LoginTest_DDT - Entering passwordlearner66
+11:36:07.134 [main] INFO  testCases.TC003_LoginTest_DDT - Clicking on login button
+11:36:08.164 [main] INFO  testCases.TC003_LoginTest_DDT - Validating My account text exists after login or not
+11:36:09.463 [main] INFO  testCases.TC003_LoginTest_DDT - Completed TC003_LoginTest_DDT
+11:36:09.463 [main] INFO  testCases.TC003_LoginTest_DDT - starting TC003_LoginDDT
+11:36:09.463 [main] INFO  testCases.TC003_LoginTest_DDT - clicking on My account link
+11:36:09.552 [main] INFO  testCases.TC003_LoginTest_DDT - clicking on login link
+11:36:09.997 [main] INFO  testCases.TC003_LoginTest_DDT - Entering email addresslearner666@gmail.com
+11:36:10.099 [main] INFO  testCases.TC003_LoginTest_DDT - Entering passwordlearner66
+11:36:10.191 [main] INFO  testCases.TC003_LoginTest_DDT - Clicking on login button
+11:36:10.255 [main] INFO  testCases.TC003_LoginTest_DDT - Validating My account text exists after login or not
+11:36:20.305 [main] INFO  testCases.TC003_LoginTest_DDT - Completed TC003_LoginTest_DDT
+11:39:17.147 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+11:39:17.181 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyaccountLink
+11:39:17.288 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on RegistrationLink
+11:39:19.677 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+11:39:19.785 [main] INFO  testCases.TC001_AccountRegistrationTest - Completed TC001_AccountRegistrationTest
+11:39:22.821 [main] INFO  testCases.TC002_LoginTest - starting TC002_LoginTest
+11:39:22.822 [main] INFO  testCases.TC002_LoginTest - clicking on My account link
+11:39:22.942 [main] INFO  testCases.TC002_LoginTest - clicking on login link
+11:39:23.344 [main] INFO  testCases.TC002_LoginTest - Entering email address
+11:39:23.519 [main] INFO  testCases.TC002_LoginTest - Entering password
+11:39:23.660 [main] INFO  testCases.TC002_LoginTest - Clicking on login button
+11:39:24.586 [main] INFO  testCases.TC002_LoginTest - Validating My account text exists after login or not
+11:39:24.637 [main] INFO  testCases.TC002_LoginTest - Completed TC002_LoginTest
+11:39:28.699 [main] INFO  testCases.TC003_LoginTest_DDT - starting TC003_LoginDDT
+11:39:28.701 [main] INFO  testCases.TC003_LoginTest_DDT - clicking on My account link
+11:39:28.797 [main] INFO  testCases.TC003_LoginTest_DDT - clicking on login link
+11:39:29.193 [main] INFO  testCases.TC003_LoginTest_DDT - Entering email addresslearner44@gmail.com
+11:39:29.309 [main] INFO  testCases.TC003_LoginTest_DDT - Entering passwordlearner44
+11:39:29.430 [main] INFO  testCases.TC003_LoginTest_DDT - Clicking on login button
+11:39:29.516 [main] INFO  testCases.TC003_LoginTest_DDT - Validating My account text exists after login or not
+11:39:31.278 [main] INFO  testCases.TC003_LoginTest_DDT - Completed TC003_LoginTest_DDT
+11:39:31.283 [main] INFO  testCases.TC003_LoginTest_DDT - starting TC003_LoginDDT
+11:39:31.283 [main] INFO  testCases.TC003_LoginTest_DDT - clicking on My account link
+11:39:31.360 [main] INFO  testCases.TC003_LoginTest_DDT - clicking on login link
+11:39:31.725 [main] INFO  testCases.TC003_LoginTest_DDT - Entering email addresslearner444@gmail.com
+11:39:31.824 [main] INFO  testCases.TC003_LoginTest_DDT - Entering passwordlearner44
+11:39:31.891 [main] INFO  testCases.TC003_LoginTest_DDT - Clicking on login button
