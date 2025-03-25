@@ -1,0 +1,5 @@
+09:36:51.874 [main] INFO  testCases.TC003_LoginTest_DDT - Entering email addresslearner666@gmail.com
+09:36:51.967 [main] INFO  testCases.TC003_LoginTest_DDT - Entering passwordlearner66
+09:36:52.033 [main] INFO  testCases.TC003_LoginTest_DDT - Clicking on login button
+09:36:52.608 [main] INFO  testCases.TC003_LoginTest_DDT - Validating My account text exists after login or not
+09:37:02.648 [main] INFO  testCases.TC003_LoginTest_DDT - Completed TC003_LoginTest_DDT
